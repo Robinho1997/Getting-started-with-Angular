@@ -1,3 +1,5 @@
 # Getting-started-with-Angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/sdrxev)
+(https://starting-with-ang.netlify.app)
+
+This repository contains my code of the getting started project of the angular documentation.
